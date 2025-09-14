@@ -11,3 +11,19 @@ I want to make modern web sites, web applications and desktop applications, that
 Also I have some experience with other languages? such as MATLAB and C. This languages I was learned when I study at univercity. After university I decide that I want to be developer in front-end, I like JS and modern styles of sites!
 Also I interested in music, such playing guitar and do workouts often the week
 
+##My progects 
+In addition, I have several projects in the early stages of development, such as game "Cold or Hot" (https://github.com/idexxxCode/cold-or-hot.git) and game "Stone, Sciccors, Paper".
+I have 7 kyu on codewars, for example you can see such solution on this kata (https://www.codewars.com/kata/525f50e3b73515a6db000b83/javascript):
+```
+function createPhoneNumber(numbers){
+  let code;
+  let num;
+  code = numbers.slice(0,3).join("");
+  num = numbers.slice(3,6).join("") + "-" + numbers.slice(-4).join("")
+  let ans = `(${code})` + " " + `${num}` 
+  return ans
+}
+```
+
+Also I'am very interested in Codewars, I can play long time (5-6 hours) and want to level up my kuy.
+
